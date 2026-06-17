@@ -4,32 +4,22 @@
 
 __این پروژه کاملاً غیررسمی بوده و به هیچ‌وجه به تیم سالواتو مرتبط نمی‌باشد.__
 
-## نحوۀ نصب
+## نحوۀ نصب &#x200f;
 
 برای ویندوز و لینوکس:
 
 - از قسمت [Releases](https://github.com/Gekkou-Translations/ddlc-fa-patch/releases) فایل ddlc-fa-patch-pc.zip را دانلود کنید
-
-- بازی Doki Doki Literature Club! را از ddlc.moe دانلود کنید.
-
+- بازی Doki Doki Literature Club! را از [ddlc.moe](https://ddlc.moe) دانلود کنید.
 - محتویات فایل zip بازی را استخراج کنید.
-
-- محتویات پوشهٔ DDLC-1.1.1-pc پچ ترجمه را به پوشۀ ‌DDLC-1.1.1-pc بازی منتقل
-  کنید.
-  
+- محتویات پوشهٔ DDLC-1.1.1-pc پچ ترجمه را به پوشۀ ‌DDLC-1.1.1-pc بازی منتقل کنید.
 - برای باز کردن بازی در ویندوز، DDLC.exe و در لینوکس، DDLC.sh را اجرا کنید.
 
 برای مک:
 
 - از قسمت [Releases](https://github.com/Gekkou-Translations/ddlc-fa-patch/releases) فایل ddlc-fa-patch-mac.zip را دانلود کنید
-
-- بازی Doki Doki Literature Club! را از ddlc.moe دانلود کنید.
-
+- بازی Doki Doki Literature Club! را از [ddlc.moe](https://ddlc.moe) دانلود کنید.
 - محتویات فایل zip بازی را استخراج کنید.
-
-- روی برنامۀ بازی راست کلیک (یا کنترل کلیک) کنید و گزینۀ Show Package Contents
-  را انتخاب کنید.
-
+- روی برنامۀ بازی راست کلیک (یا کنترل کلیک) کنید و گزینۀ Show Package Contents را انتخاب کنید.
 - محتویات پوشهٔ Contents پچ ترجمه را به پوشۀ ‌Contents بازی منتقل کنید.
 
 ## فونت‌های استفاده شده
@@ -48,11 +38,10 @@ __این پروژه کاملاً غیررسمی بوده و به هیچ‌وجه
 - [نفس (اشعار ویژه)](https://digifonts.ir/downloads/%D9%81%D9%88%D9%86%D8%AA-%D8%AF%D8%B3%D8%AA%D9%86%D9%88%DB%8C%D8%B3-%D9%86%D9%81%D8%B3/)
 
 
-## تقدیر
+## تقدیر &#x200f;
 
 - [پچ ترجمۀ غیررسمی ژاپنی](https://github.com/proudust/ddlc-jp-patch): الهام و پایۀ پروژه
-
-- &#x202b;[img-encode](https://github.com/alexadam/img-encode): تبدیل عکس به طیف‌نگاره
+- [img-encode](https://github.com/alexadam/img-encode): تبدیل عکس به طیف‌نگاره
 
 ## لینک‌های بازی
 
