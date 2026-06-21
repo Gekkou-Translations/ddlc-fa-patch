@@ -21,6 +21,7 @@ translate Persian style normal:
     ypos 55
     xpos 1012
     xminimum 744
+    language "western"
     textalign 1.0
     xalign 1.0
 
