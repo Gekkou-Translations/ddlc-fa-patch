@@ -566,7 +566,7 @@ translate Persian ch3_start_natsuki_ea513c23:
     mc "نگران دوستت بودن کاملاً عادیه."
 
 translate Persian ch3_start_natsuki_74e8c8a1:
-    mc "تو هم نگران من بود، واسه همین--"
+    mc "تو نگران من هم بودی، واسه همین--"
 
 translate Persian ch3_start_natsuki_01eaeb75:
     n 4w "نبودم!!"
@@ -812,7 +812,7 @@ translate Persian ch3_start_yuri_da278827:
     mc "من به اندازه‌ی تو فرد پیچیده‌ای نیستم."
 
 translate Persian ch3_start_yuri_4003d0d4:
-    y 2t "آ-عا…"
+    y 2t "آ-آ…"
 
 translate Persian ch3_start_yuri_9f821789:
     y "این یه… تحسین نبود که؟"
@@ -2859,7 +2859,7 @@ translate Persian strings:
     new "نگران دوستت بودن کاملاً عادیه."
 
     old "{#ch3_start_natsuki_74e8c8a1}"
-    new "تو هم نگران من بود، واسه همین--"
+    new "تو نگران من هم بودی، واسه همین--"
 
     old "{#ch3_start_natsuki_01eaeb75}"
     new "نبودم!!"
@@ -3105,7 +3105,7 @@ translate Persian strings:
     new "من به اندازه‌ی تو فرد پیچیده‌ای نیستم."
 
     old "{#ch3_start_yuri_4003d0d4}"
-    new "آ-عا…"
+    new "آ-آ…"
 
     old "{#ch3_start_yuri_9f821789}"
     new "این یه… تحسین نبود که؟"

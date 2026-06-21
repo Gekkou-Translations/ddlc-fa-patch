@@ -477,7 +477,7 @@ translate Persian strings:
     new "گردباد"
 
     old "afterimage"
-    new "پس‌تصویر"
+    new "پس‌انگاره"
 
     old "vertigo"
     new "سرگیجه"
@@ -558,7 +558,7 @@ translate Persian strings:
     new "رنج‌آور"
 
     old "variance"
-    new "احتلاف"
+    new "اختلاف"
 
     old "uncontrollable"
     new "افسارگسیخته"

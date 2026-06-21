@@ -86,7 +86,7 @@ translate Persian ch22_main_a8d4c8fe:
     mc "و الآن هم که عذرخواهی کردی یعنی اینکه واقعاً منظوری نداشتی."
 
 translate Persian ch22_main_516ddbbb:
-    y 3t "آ-عا…"
+    y 3t "آ-آ…"
 
 translate Persian ch22_main_c60c5441:
     y "[player]…"
@@ -1116,7 +1116,7 @@ translate Persian strings:
     new "و الآن هم که عذرخواهی کردی یعنی اینکه واقعاً منظوری نداشتی."
 
     old "{#ch22_main_516ddbbb}"
-    new "آ-عا…"
+    new "آ-آ…"
 
     old "{#ch22_main_c60c5441}"
     new "[player]…"

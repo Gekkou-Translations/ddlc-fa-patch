@@ -308,7 +308,7 @@ translate Persian ch4_main_c05b8cdb:
     s 1ba "واقعاً باید خودم بهت بگم، نه، [player]؟"
 
 translate Persian ch4_main_58e8d872:
-    s "مثل اینکه ایندفعه چاره‌ای نیست."
+    s "مثل اینکه این‌دفعه چاره‌ای نیست."
 
 translate Persian ch4_main_068d9aad:
     s 1bc "راستش…"
@@ -503,10 +503,10 @@ translate Persian ch4_main_78e5f68c:
     "بدون فکر کردن، دوباره شونه‌های سایوری رو می‌گیرم."
 
 translate Persian ch4_main_af8cb833:
-    "ایندفعه، محکم می‌کشم در آغوشم."
+    "این‌دفعه، محکم می‌کشم در آغوشم."
 
 translate Persian ch4_main_23743af4:
-    s "آ-عا…"
+    s "آ-آ…"
 
 translate Persian ch4_main_23d81314:
     s "[player]…"
@@ -914,7 +914,7 @@ translate Persian ch4_exclusive_natsuki_ee7d9dbd:
     mc "هاهاها."
 
 translate Persian ch4_exclusive_natsuki_74b16515:
-    n 5bn "چته؟؟"
+    n 5bn "چه‌اته؟؟"
 
 translate Persian ch4_exclusive_natsuki_11f09ade:
     mc "حالا این بیشتر شبیه ناتسوکی همیشگیه."
@@ -932,10 +932,10 @@ translate Persian ch4_exclusive_natsuki_eaa235ff:
     n "می‌دونی، داشتم سعی می‌کردم یه‌کم باهات بهتر رفتار کنم."
 
 translate Persian ch4_exclusive_natsuki_8bd6a7af:
-    n 1br "و اینکه یه بدن جذاب و سکسی مثل یوری ندارم، دلیل نمی‌شه که من رو مثل یه--"
+    n 1br "اینکه یه بدن جذاب و سکسی مثل یوری ندارم، دلیل نمی‌شه که با من مثل یه--"
 
 translate Persian ch4_exclusive_natsuki_21ffec45:
-    n 1bo "آ-عا…"
+    n 1bo "آ-آ…"
 
 translate Persian ch4_exclusive_natsuki_bbf5340c:
     "ناتسوکی متوجه چیزی که داشت می‌گفت شد، و صورتش سرخ شد."
@@ -1430,7 +1430,7 @@ translate Persian ch4_exclusive_natsuki_5cf6a87d:
     n "با این که می‌شه حتیٰ گل هم درست کرد!"
 
 translate Persian ch4_exclusive_natsuki_313ffc55:
-    n "ولی احتمالاً ایندفعه به این نیازمون نمی‌شه."
+    n "ولی احتمالاً این‌دفعه به این نیازمون نمی‌شه."
 
 translate Persian ch4_exclusive_natsuki_b3e35c15:
     mc "اینیکی برای چیه؟"
@@ -1748,7 +1748,7 @@ translate Persian ch4_exclusive_natsuki_d2c5496d:
     "ناتسوکی همون‌طور که کلاً چند سانتی‌متر با من فاصله داره، به من نگاه می‌کنه."
 
 translate Persian ch4_exclusive_natsuki_94a82b0d:
-    "می‌تونم حس کنم که پیرهنم رو به آرومی زیر دست‌هاش جمه کرده، جوری که انگار من رو گرفته."
+    "می‌تونم حس کنم که پیرهنم رو به آرومی زیر دست‌هاش جمع کرده، جوری که انگار من رو گرفته."
 
 translate Persian ch4_exclusive_natsuki_8043eaf5:
     "لپ‌هاش که گل انداخته و چشم‌های همرنگش به همراه لب‌های نیمه بازش کل دیدم رو فرا می‌گیره."
@@ -1940,7 +1940,7 @@ translate Persian ch4_exclusive_yuri_0a264a44:
     "من مچ یوری رو گرفتم؛ درست زمانی که می‌خواست یه کشو رو باز کنه."
 
 translate Persian ch4_exclusive_yuri_443b546a:
-    y 3bn "آ-عا…"
+    y 3bn "آ-آ…"
 
 translate Persian ch4_exclusive_yuri_6e90d30a:
     y "معذرت می‌خوام…!"
@@ -2267,7 +2267,7 @@ translate Persian ch4_exclusive_yuri_93a46c5e:
     mc "خیلی شیکه."
 
 translate Persian ch4_exclusive_yuri_9b47ae2d:
-    y 4bb "آ-عا…"
+    y 4bb "آ-آ…"
 
 translate Persian ch4_exclusive_yuri_ae7f22e8:
     y "خب…"
@@ -4110,7 +4110,7 @@ translate Persian strings:
     new "واقعاً باید خودم بهت بگم، نه، [player]؟"
 
     old "{#ch4_main_58e8d872}"
-    new "مثل اینکه ایندفعه چاره‌ای نیست."
+    new "مثل اینکه این‌دفعه چاره‌ای نیست."
 
     old "{#ch4_main_068d9aad}"
     new "راستش…"
@@ -4305,10 +4305,10 @@ translate Persian strings:
     new "بدون فکر کردن، دوباره شونه‌های سایوری رو می‌گیرم."
 
     old "{#ch4_main_af8cb833}"
-    new "ایندفعه، محکم می‌کشم در آغوشم."
+    new "این‌دفعه، محکم می‌کشم در آغوشم."
 
     old "{#ch4_main_23743af4}"
-    new "آ-عا…"
+    new "آ-آ…"
 
     old "{#ch4_main_23d81314}"
     new "[player]…"
@@ -4716,7 +4716,7 @@ translate Persian strings:
     new "هاهاها."
 
     old "{#ch4_exclusive_natsuki_74b16515}"
-    new "چته؟؟"
+    new "چه‌اته؟؟"
 
     old "{#ch4_exclusive_natsuki_11f09ade}"
     new "حالا این بیشتر شبیه ناتسوکی همیشگیه."
@@ -4734,10 +4734,10 @@ translate Persian strings:
     new "می‌دونی، داشتم سعی می‌کردم یه‌کم باهات بهتر رفتار کنم."
 
     old "{#ch4_exclusive_natsuki_8bd6a7af}"
-    new "و اینکه یه بدن جذاب و سکسی مثل یوری ندارم، دلیل نمی‌شه که من رو مثل یه--"
+    new "اینکه یه بدن جذاب و سکسی مثل یوری ندارم، دلیل نمی‌شه که با من مثل یه--"
 
     old "{#ch4_exclusive_natsuki_21ffec45}"
-    new "آ-عا…"
+    new "آ-آ…"
 
     old "{#ch4_exclusive_natsuki_bbf5340c}"
     new "ناتسوکی متوجه چیزی که داشت می‌گفت شد، و صورتش سرخ شد."
@@ -5232,7 +5232,7 @@ translate Persian strings:
     new "با این که می‌شه حتیٰ گل هم درست کرد!"
 
     old "{#ch4_exclusive_natsuki_313ffc55}"
-    new "ولی احتمالاً ایندفعه به این نیازمون نمی‌شه."
+    new "ولی احتمالاً این‌دفعه به این نیازمون نمی‌شه."
 
     old "{#ch4_exclusive_natsuki_b3e35c15}"
     new "اینیکی برای چیه؟"
@@ -5550,7 +5550,7 @@ translate Persian strings:
     new "ناتسوکی همون‌طور که کلاً چند سانتی‌متر با من فاصله داره، به من نگاه می‌کنه."
 
     old "{#ch4_exclusive_natsuki_94a82b0d}"
-    new "می‌تونم حس کنم که پیرهنم رو به آرومی زیر دست‌هاش جمه کرده، جوری که انگار من رو گرفته."
+    new "می‌تونم حس کنم که پیرهنم رو به آرومی زیر دست‌هاش جمع کرده، جوری که انگار من رو گرفته."
 
     old "{#ch4_exclusive_natsuki_8043eaf5}"
     new "لپ‌هاش که گل انداخته و چشم‌های همرنگش به همراه لب‌های نیمه بازش کل دیدم رو فرا می‌گیره."
@@ -5742,7 +5742,7 @@ translate Persian strings:
     new "من مچ یوری رو گرفتم؛ درست زمانی که می‌خواست یه کشو رو باز کنه."
 
     old "{#ch4_exclusive_yuri_443b546a}"
-    new "آ-عا…"
+    new "آ-آ…"
 
     old "{#ch4_exclusive_yuri_6e90d30a}"
     new "معذرت می‌خوام…!"
@@ -6069,7 +6069,7 @@ translate Persian strings:
     new "خیلی شیکه."
 
     old "{#ch4_exclusive_yuri_9b47ae2d}"
-    new "آ-عا…"
+    new "آ-آ…"
 
     old "{#ch4_exclusive_yuri_ae7f22e8}"
     new "خب…"

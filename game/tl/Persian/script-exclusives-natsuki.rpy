@@ -245,7 +245,7 @@ translate Persian natsuki_exclusive_1_5a5ee160:
     n 4w "خب، معلومه که داره!"
 
 translate Persian natsuki_exclusive_1_aca8733a:
-    n "فکر می‌کنم من از یه چیزی خوشم می‌آد که داستان درست و حسابی هم نداره؟"
+    n "فکر کردی من از یه چیزی خوشم می‌آد که حتیٰ یه داستان درست و حسابی هم نداره؟"
 
 translate Persian natsuki_exclusive_1_5a541bbb:
     n 4c "البته…"
@@ -275,7 +275,7 @@ translate Persian natsuki_exclusive_1_313721a5:
     n "به خاطر همین انقدر قشنگه."
 
 translate Persian natsuki_exclusive_1_bff30210:
-    n 2a "یه عالمه قسمت‌های تآثیرگذار دارهو"
+    n 2a "یه عالمه قسمت‌های تأثیرگذار داره."
 
 translate Persian natsuki_exclusive_1_2cc4aa9e:
     mc "آها، پس این‌طوریه؟"
@@ -398,7 +398,7 @@ translate Persian natsuki_exclusive_1_62b59994:
     mc "من همیشه خیلی هیجان‌زده می‌شم وقتی دوست‌هام رو قانع می‌کنم که یه سری‌ای که دوست دارم رو شروع کنن."
 
 translate Persian natsuki_exclusive_1_fec87230:
-    mc "می‌دونم چی می‌گم؟"
+    mc "می‌دونی چی می‌گم؟"
 
 translate Persian natsuki_exclusive_1_913a614e:
     n "…؟"
@@ -1764,7 +1764,7 @@ translate Persian strings:
     new "خب، معلومه که داره!"
 
     old "{#natsuki_exclusive_1_aca8733a}"
-    new "فکر می‌کنم من از یه چیزی خوشم می‌آد که داستان درست و حسابی هم نداره؟"
+    new "فکر کردی من از یه چیزی خوشم می‌آد که حتیٰ یه داستان درست و حسابی هم نداره؟"
 
     old "{#natsuki_exclusive_1_5a541bbb}"
     new "البته…"
@@ -1794,7 +1794,7 @@ translate Persian strings:
     new "به خاطر همین انقدر قشنگه."
 
     old "{#natsuki_exclusive_1_bff30210}"
-    new "یه عالمه قسمت‌های تآثیرگذار دارهو"
+    new "یه عالمه قسمت‌های تأثیرگذار داره."
 
     old "{#natsuki_exclusive_1_2cc4aa9e}"
     new "آها، پس این‌طوریه؟"
@@ -1917,7 +1917,7 @@ translate Persian strings:
     new "من همیشه خیلی هیجان‌زده می‌شم وقتی دوست‌هام رو قانع می‌کنم که یه سری‌ای که دوست دارم رو شروع کنن."
 
     old "{#natsuki_exclusive_1_fec87230}"
-    new "می‌دونم چی می‌گم؟"
+    new "می‌دونی چی می‌گم؟"
 
     old "{#natsuki_exclusive_1_913a614e}"
     new "…؟"

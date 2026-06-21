@@ -647,7 +647,7 @@ translate Persian ch1_end_e7e072a2:
     s "بهت قول می‌دم هردوشون ماهن."
 
 translate Persian ch1_end_972589c7:
-    s 1g "ازشون… بدت نمی‌آد که؟"
+    s 1g "ازشون… بدت نمی‌آد که؟؟"
 
 translate Persian ch1_end_5130e1ef:
     mc "نه بابا، چرا ازشون بدم بیاد!"
@@ -656,7 +656,7 @@ translate Persian ch1_end_f4dff198:
     mc "فقط نظر تو رو می‌خواستم، همین."
 
 translate Persian ch1_end_08ee0a33:
-    mc "الآن می‌بینم چطور با تو چطور به این خوبی کنار می‌آن."
+    mc "الآن می‌فهمم چطور با تو به این خوبی کنار می‌آن."
 
 translate Persian ch1_end_4b14d678:
     s 1d "خدا رو شکر…"
@@ -2115,7 +2115,7 @@ translate Persian strings:
     new "بهت قول می‌دم هردوشون ماهن."
 
     old "{#ch1_end_972589c7}"
-    new "ازشون… بدت نمی‌آد که؟"
+    new "ازشون… بدت نمی‌آد که؟؟"
 
     old "{#ch1_end_5130e1ef}"
     new "نه بابا، چرا ازشون بدم بیاد!"
@@ -2124,7 +2124,7 @@ translate Persian strings:
     new "فقط نظر تو رو می‌خواستم، همین."
 
     old "{#ch1_end_08ee0a33}"
-    new "الآن می‌بینم چطور با تو چطور به این خوبی کنار می‌آن."
+    new "الآن می‌فهمم چطور با تو به این خوبی کنار می‌آن."
 
     old "{#ch1_end_4b14d678}"
     new "خدا رو شکر…"

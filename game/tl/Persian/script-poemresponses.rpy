@@ -3032,7 +3032,7 @@ translate Persian ch1_s_good_177d7f82:
     s "شاید واسه همینه!"
 
 translate Persian ch1_s_good_919a3334:
-    s "چون من هم نمی‌دونم چی دوست"
+    s "چون خودم هم نمی‌دونم چی دوست دارم!"
 
 translate Persian ch1_s_good_ffae3320:
     s 1r "هاهاهاها!"
@@ -3224,7 +3224,7 @@ translate Persian ch2_s_shared_075e3de4:
     s 2q "ممنون، [player]!"
 
 translate Persian ch2_s_shared_4092f3a4:
-    s "پی می‌رم این رو بنویسم~"
+    s "پس می‌رم این رو بنویسم~"
 
 translate Persian ch2_s_shared_9703786d:
     s 2a "تو هم الآن شعر من رو بخون، باشه؟"
@@ -3413,7 +3413,7 @@ translate Persian ch2_s_good_177d7f82:
     s "شاید واسه همینه!"
 
 translate Persian ch2_s_good_919a3334:
-    s "چون من هم نمی‌دونم چی دوست"
+    s "چون خودم هم نمی‌دونم چی دوست دارم!"
 
 translate Persian ch2_s_good_aa59979e:
     s 4r "هاهاهاها!"
@@ -4094,7 +4094,7 @@ translate Persian ch1_y_bad_9e6f3036:
     y 2p "نه!!"
 
 translate Persian ch1_y_bad_900da743:
-    y 2o "…الآن صدام رو بلند کردی…؟"
+    y 2o "…الآن صدام رو بلند کردم…؟"
 
 translate Persian ch1_y_bad_b592d04c:
     y 4c "اوو، خیلی عذر می‌خوام…"
@@ -9468,7 +9468,7 @@ translate Persian strings:
     new "شاید واسه همینه!"
 
     old "{#ch1_s_good_919a3334}"
-    new "چون من هم نمی‌دونم چی دوست"
+    new "چون خودم هم نمی‌دونم چی دوست دارم!"
 
     old "{#ch1_s_good_ffae3320}"
     new "هاهاهاها!"
@@ -9660,7 +9660,7 @@ translate Persian strings:
     new "ممنون، [player]!"
 
     old "{#ch2_s_shared_4092f3a4}"
-    new "پی می‌رم این رو بنویسم~"
+    new "پس می‌رم این رو بنویسم~"
 
     old "{#ch2_s_shared_9703786d}"
     new "تو هم الآن شعر من رو بخون، باشه؟"
@@ -9849,7 +9849,7 @@ translate Persian strings:
     new "شاید واسه همینه!"
 
     old "{#ch2_s_good_919a3334}"
-    new "چون من هم نمی‌دونم چی دوست"
+    new "چون خودم هم نمی‌دونم چی دوست دارم!"
 
     old "{#ch2_s_good_aa59979e}"
     new "هاهاهاها!"
@@ -10530,7 +10530,7 @@ translate Persian strings:
     new "نه!!"
 
     old "{#ch1_y_bad_900da743}"
-    new "…الآن صدام رو بلند کردی…؟"
+    new "…الآن صدام رو بلند کردم…؟"
 
     old "{#ch1_y_bad_b592d04c}"
     new "اوو، خیلی عذر می‌خوام…"

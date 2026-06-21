@@ -164,7 +164,7 @@ translate Persian ch2_main_aab4b4e3:
     y 3h "اون--!"
 
 translate Persian ch2_main_6c0f6079:
-    y "من رو این‌طوری نکس وسط، سایوری…"
+    y "من رو این‌طوری نکش وسط، سایوری…"
 
 translate Persian ch2_main_a7b7bd96:
     y "بعدش هم…"
@@ -197,7 +197,7 @@ translate Persian ch2_main_50e118dc:
     s 1r "هههه!"
 
 translate Persian ch2_main_3abaf147:
-    s 3x "خیلی خوشم دارم وقتی این‌طوری صادقانه چیزی که فکر می‌کنی رو می‌گی…"
+    s 3x "خیلی خوشم می‌آد وقتی این‌طوری صادقانه چیزی که فکر می‌کنی رو می‌گی…"
 
 translate Persian ch2_main_66c5a7ca:
     s "خیلی این اتفاق نمی‌افته، ولی خیلی بامزه‌اس!"
@@ -1544,7 +1544,7 @@ translate Persian ch2_end_1fbc80ee:
     "سایوری تپق می‌زنه."
 
 translate Persian ch2_end_c4ee50a6:
-    s 1a "خب… فکر روزی، [ch2_winner!t] ازت بخواد که باهات به خونه برگرده…"
+    s 1a "خب… فکر کن روزی، [ch2_winner!t] ازت بخواد که باهات به خونه برگرده…"
 
 translate Persian ch2_end_e4c4b2af:
     mc "جان؟!"
@@ -1896,7 +1896,7 @@ translate Persian strings:
     new "اون--!"
 
     old "{#ch2_main_6c0f6079}"
-    new "من رو این‌طوری نکس وسط، سایوری…"
+    new "من رو این‌طوری نکش وسط، سایوری…"
 
     old "{#ch2_main_a7b7bd96}"
     new "بعدش هم…"
@@ -1929,7 +1929,7 @@ translate Persian strings:
     new "هههه!"
 
     old "{#ch2_main_3abaf147}"
-    new "خیلی خوشم دارم وقتی این‌طوری صادقانه چیزی که فکر می‌کنی رو می‌گی…"
+    new "خیلی خوشم می‌آد وقتی این‌طوری صادقانه چیزی که فکر می‌کنی رو می‌گی…"
 
     old "{#ch2_main_66c5a7ca}"
     new "خیلی این اتفاق نمی‌افته، ولی خیلی بامزه‌اس!"
@@ -3276,7 +3276,7 @@ translate Persian strings:
     new "سایوری تپق می‌زنه."
 
     old "{#ch2_end_c4ee50a6}"
-    new "خب… فکر روزی، [ch2_winner!t] ازت بخواد که باهات به خونه برگرده…"
+    new "خب… فکر کن روزی، [ch2_winner!t] ازت بخواد که باهات به خونه برگرده…"
 
     old "{#ch2_end_e4c4b2af}"
     new "جان؟!"

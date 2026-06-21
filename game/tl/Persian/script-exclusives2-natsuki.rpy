@@ -260,7 +260,7 @@ translate Persian natsuki_exclusive2_1_62b59994:
     mc "من همیشه خیلی هیجان‌زده می‌شم وقتی دوست‌هام رو قانع می‌کنم که یه سری‌ای که دوست دارم رو شروع کنن."
 
 translate Persian natsuki_exclusive2_1_fec87230:
-    mc "می‌دونم چی می‌گم؟"
+    mc "می‌دونی چی می‌گم؟"
 
 translate Persian natsuki_exclusive2_1_913a614e:
     n "…؟"
@@ -753,7 +753,7 @@ translate Persian strings:
     new "من همیشه خیلی هیجان‌زده می‌شم وقتی دوست‌هام رو قانع می‌کنم که یه سری‌ای که دوست دارم رو شروع کنن."
 
     old "{#natsuki_exclusive2_1_fec87230}"
-    new "می‌دونم چی می‌گم؟"
+    new "می‌دونی چی می‌گم؟"
 
     old "{#natsuki_exclusive2_1_913a614e}"
     new "…؟"
