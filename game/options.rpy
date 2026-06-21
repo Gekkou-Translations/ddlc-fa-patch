@@ -213,9 +213,8 @@ init python:
     build.archive("audio", "all")
     build.archive("fonts", "all")
 
-    build.classify("game/**.jpg", "images")
-    build.classify("game/**.png", "images")
-
+    build.classify("game/tl/Persian/**.jpg", "scripts")
+    build.classify("game/tl/Persian/**.png", "scripts")
     build.classify("game/**.rpyc", "scripts")
     build.classify("game/**.txt", "scripts")
     build.classify("game/**.chr", "scripts")
@@ -224,6 +223,8 @@ init python:
     build.classify("game/**.ogg", "audio")
     build.classify("game/**.ttf", "fonts")
     build.classify("game/**.otf", "fonts")
+    build.classify("game/**.jpg", "images")
+    build.classify("game/**.png", "images")
 
     build.classify('**~', None)
     build.classify('**.bak', None)
