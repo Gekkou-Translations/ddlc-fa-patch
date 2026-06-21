@@ -1,6 +1,6 @@
 init python:
     def screenshot_srf():
-        srf = renpy.display.draw.screenshot(None, False)
+        srf = renpy.display.draw.screenshot(None)
         
         return srf
 
