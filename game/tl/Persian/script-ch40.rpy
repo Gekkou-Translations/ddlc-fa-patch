@@ -398,7 +398,7 @@ translate Persian ch40_main_efc4ed34:
     y "بعدش هم، یه فنجون چای همراه یه کتاب خوب می‌چسبه، نه؟"
 
 translate Persian ch40_main_a3a3b943:
-    mc "آها… آ-آره احتمالاٌ…"
+    mc "آها… آ-آره احتمالاً…"
 
 translate Persian ch40_main_0021ab32:
     n "هههه. از همین الآن داری سعی می‌کنی توجه عضو جدیدمون رو به خودت جلب کنی، یوری؟"
@@ -545,7 +545,7 @@ translate Persian ch40_main_ed427033:
     "سایوری تنش بینشون رو حس می‌کنه، و می‌پره وسط بحثشون."
 
 translate Persian ch40_main_cdebfad7:
-    s 1x "شاید ما هممون بتونیم یه چیز جدید امتحان کنیم!"
+    s 1x "شاید ما همه‌مون بتونیم یه چیز جدید امتحان کنیم!"
 
 translate Persian ch40_main_846d265b:
     s 1l "به نظرم می‌تونه باحال باشه…"
@@ -842,7 +842,7 @@ translate Persian ch40_clearnormal_45bacf8a:
     s "[gtext]{nw}"
 
 translate Persian ch40_clearall_fda76630:
-    s "ازت متشکرم که انقدر با هممون وقت گذروندی."
+    s "ازت متشکرم که انقدر با همه‌مون وقت گذروندی."
 
 translate Persian ch40_clearall_43d97ee0:
     s 2d "تو خیلی سخت تلاش کردی که تک تکمون رو خوشحال کنی."
@@ -851,7 +851,7 @@ translate Persian ch40_clearall_b48e84f6:
     s "موقع سختی‌هامون بهمون دل‌داری کردی."
 
 translate Persian ch40_clearall_8fa6b836:
-    s "و کمک کردی هممون با هم‌دیگه کنار بیایم."
+    s "و کمک کردی همه‌مون با هم‌دیگه کنار بیایم."
 
 translate Persian ch40_clearall_adf7d51d:
     s 1a "متوجه هستی، [player]؟"
@@ -911,7 +911,7 @@ translate Persian ch40_clearall_ecf596c1:
     s 1t "ما…"
 
 translate Persian ch40_clearall_35809bce:
-    s "ما هممون تو رو خیلی دوست داریم."
+    s "ما همه‌مون تو رو خیلی دوست داریم."
 
 translate Persian strings:
     old "Please stop playing with my heart.\nI don't want to come back."
@@ -1338,7 +1338,7 @@ translate Persian strings:
     new "بعدش هم، یه فنجون چای همراه یه کتاب خوب می‌چسبه، نه؟"
 
     old "{#ch40_main_a3a3b943}"
-    new "آها… آ-آره احتمالاٌ…"
+    new "آها… آ-آره احتمالاً…"
 
     old "{#ch40_main_0021ab32}"
     new "هههه. از همین الآن داری سعی می‌کنی توجه عضو جدیدمون رو به خودت جلب کنی، یوری؟"
@@ -1485,7 +1485,7 @@ translate Persian strings:
     new "سایوری تنش بینشون رو حس می‌کنه، و می‌پره وسط بحثشون."
 
     old "{#ch40_main_cdebfad7}"
-    new "شاید ما هممون بتونیم یه چیز جدید امتحان کنیم!"
+    new "شاید ما همه‌مون بتونیم یه چیز جدید امتحان کنیم!"
 
     old "{#ch40_main_846d265b}"
     new "به نظرم می‌تونه باحال باشه…"
@@ -1776,7 +1776,7 @@ translate Persian strings:
     new "[gtext]{nw}"
 
     old "{#ch40_clearall_fda76630}"
-    new "ازت متشکرم که انقدر با هممون وقت گذروندی."
+    new "ازت متشکرم که انقدر با همه‌مون وقت گذروندی."
 
     old "{#ch40_clearall_43d97ee0}"
     new "تو خیلی سخت تلاش کردی که تک تکمون رو خوشحال کنی."
@@ -1785,7 +1785,7 @@ translate Persian strings:
     new "موقع سختی‌هامون بهمون دل‌داری کردی."
 
     old "{#ch40_clearall_8fa6b836}"
-    new "و کمک کردی هممون با هم‌دیگه کنار بیایم."
+    new "و کمک کردی همه‌مون با هم‌دیگه کنار بیایم."
 
     old "{#ch40_clearall_adf7d51d}"
     new "متوجه هستی، [player]؟"
@@ -1845,4 +1845,4 @@ translate Persian strings:
     new "ما…"
 
     old "{#ch40_clearall_35809bce}"
-    new "ما هممون تو رو خیلی دوست داریم."
+    new "ما همه‌مون تو رو خیلی دوست داریم."

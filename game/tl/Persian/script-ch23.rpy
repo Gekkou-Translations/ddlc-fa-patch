@@ -197,7 +197,7 @@ translate Persian ch23_main_3754a60b:
     y 2v "امم، راستی، ناتسوکی…"
 
 translate Persian ch23_main_6f1da170:
-    y "دیروزهمه‌مون داشتیم حرف می‌زدیم؛ و…"
+    y "دیروز همه‌مون داشتیم حرف می‌زدیم، و…"
 
 translate Persian ch23_main_93c7a69f:
     y 2t "خب… تصمیم گرفتیم که ما هم برای جشنواره کمک کنیم."
@@ -422,7 +422,7 @@ translate Persian ch23_end_override_2d145eae:
     m "این یه ایده‌ی عالیه!"
 
 translate Persian ch23_end_override_2ef36761:
-    m 1a "و این‌طوری، هممون یه کاری داریم برای انجام دادن."
+    m 1a "و این‌طوری، همه‌مون یه کاری داریم برای انجام دادن."
 
 translate Persian ch23_end_override_5f1028e8:
     y 2f "عه؟"
@@ -809,7 +809,7 @@ translate Persian yuri_kill_3_6ea274cb:
     m "خیلی عذر می‌خوام!"
 
 translate Persian yuri_kill_3_afa45be0:
-    m "حتماً خیلی حوصلهه سر بر بوده…"
+    m "حتماً خیلی حوصله سر بر بوده…"
 
 translate Persian yuri_kill_3_989d77b0:
     m 2e "بهت جبرانش می‌کنم، باشه؟"
@@ -1056,7 +1056,7 @@ translate Persian strings:
     new "امم، راستی، ناتسوکی…"
 
     old "{#ch23_main_6f1da170}"
-    new "دیروزهمه‌مون داشتیم حرف می‌زدیم؛ و…"
+    new "دیروز همه‌مون داشتیم حرف می‌زدیم، و…"
 
     old "{#ch23_main_93c7a69f}"
     new "خب… تصمیم گرفتیم که ما هم برای جشنواره کمک کنیم."
@@ -1281,7 +1281,7 @@ translate Persian strings:
     new "این یه ایده‌ی عالیه!"
 
     old "{#ch23_end_override_2ef36761}"
-    new "و این‌طوری، هممون یه کاری داریم برای انجام دادن."
+    new "و این‌طوری، همه‌مون یه کاری داریم برای انجام دادن."
 
     old "{#ch23_end_override_5f1028e8}"
     new "عه؟"
@@ -1668,7 +1668,7 @@ translate Persian strings:
     new "خیلی عذر می‌خوام!"
 
     old "{#yuri_kill_3_afa45be0}"
-    new "حتماً خیلی حوصلهه سر بر بوده…"
+    new "حتماً خیلی حوصله سر بر بوده…"
 
     old "{#yuri_kill_3_989d77b0}"
     new "بهت جبرانش می‌کنم، باشه؟"
