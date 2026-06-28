@@ -495,7 +495,7 @@ translate Persian strings:
     new "فایل \"game/script-ch5.rpy\"، خط 307\nبرای جزئیات traceback.txt را مشاهده کنید."
 
     old "Oh jeez...I didn't break anything, did I? Hold on a sec, I can probably fix this...I think...\nActually, you know what? This would probably be a lot easier if I just deleted her. She's the one who's making this so difficult. Ahaha! Well, here goes nothing."
-    new "ای وای… چیزی رو خراب کردم؟ یه لحظه، می‌تونم این رو درست کنم… فکر کنم…\nالبته، می‌دونی چیه؟ اگه کلاً اون رو دیلیت کنم، خیلی راحت‌تر می‌شه. اون داره انقدر کارو سخت می‌کنه. هاهاها! خیلی خب؛ هرچی شد، شد."
+    new "ای وای… چیزی رو خراب کردم؟ یه لحظه، می‌تونم این رو درست کنم… فکر کنم…\nالبته، می‌دونی چیه؟ اگه کلاً اون رو دیلیت کنم، خیلی راحت‌تر می‌شه. اون داره انقدر کار رو سخت می‌کنه. هاهاها! خیلی خب؛ هرچی شد، شد."
 
     old "{#ch5_main_override_291cd73e}"
     new "امروز روز جشنواره‌اس."

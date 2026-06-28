@@ -60,7 +60,7 @@ translate Persian strings:
     new "آیا امروز یک تمرین سرگرم کننده برای همه پیدا کردم؟"
 
     old "When you're here, everything that we do is fun for them anyway{#translate}"
-    new "وقتی این‌جایی، هرکاری بکنیم به آنها در هرصورت خوش می‌گذرد"
+    new "وقتی این‌جایی، هرکاری بکنیم به آن‌ها در هرصورت خوش می‌گذرد"
 
     old "When I can't even read my own feelings{#translate}"
     new "وقتی حتیٰ احساسات خود را نمی‌توانم بخوانم"
