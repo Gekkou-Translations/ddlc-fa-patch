@@ -279,16 +279,16 @@
     new "نمای متغیرها"
 
     old "Image Location Picker"
-    new "انتخاب کنندۀ مکان عکس"
+    new "انتخاب کنندۀ مکان تصویر"
 
     old "Filename List"
     new "لیست نام فایل‌ها"
 
     old "Show Image Load Log"
-    new "نمایش گزارش بارگذاری عکس"
+    new "نمایش گزارش بارگذاری تصویر"
 
     old "Hide Image Load Log"
-    new "پنهان کردن گزارش بارگذاری عکس"
+    new "پنهان کردن گزارش بارگذاری تصویر"
 
     old "Show Texture Size"
     new "نمایش اندازۀ بافت"
