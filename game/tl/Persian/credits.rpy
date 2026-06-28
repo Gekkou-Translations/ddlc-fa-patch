@@ -5,8 +5,8 @@ translate Persian strings:
     old "Hi, it's me."
     new "سلام، منم."
 
-    old "Um... So you know how I've been like, practicing piano and stuff?"
-    new "امم… خب می‌دونی که من پیانو تمرین می‌کردم؟"
+    old "So you know how I've been like, practicing piano and stuff?"
+    new "خب می‌دونی که من پیانو تمرین می‌کردم؟"
 
     old "And - I'm not really any good at it yet... like, at all."
     new "و هنوز خیلی خوب بلد نیستم… یعنی، اصلاً."
@@ -15,7 +15,7 @@ translate Persian strings:
     new "اما~ برات یه آهنگ نوشتم"
 
     old "And I was kinda hoping that I could show it to you!"
-    new "و امیدوار بودم که بتونم بهت نشونش بدم."
+    new "و امیدوار بودم که بتونم بهت نشونش بدم!"
 
     old "Because I worked really... really hard on it."
     new "چون روش خیلی… خیلی کار کردم."
@@ -45,7 +45,7 @@ translate Persian strings:
     new "جوهر به گودالی تیره جاری می‌شود"
 
     old " Just move your hand -- write the way into his heart!{#translate}"
-    new "فقط دستت را حرکت بده -- راهت را به قلبش بنویس"
+    new "فقط دستت را حرکت بده -- راهت را به قلبش بنویس!"
 
     old "But in this world of infinite choices{#translate}"
     new "اما در این دنیای انتخاب‌های بی‌پایان"
@@ -121,6 +121,9 @@ translate Persian strings:
 
     old "Monika\n[player]"
     new "مونیکا\n[player]"
+    
+    old "made with love by"
+    new "تقدیم با عشق از"
 
     old "Error: Script file is missing or corrupt.\nPlease reinstall the game."
     new "خطا: فایل اسکریپت یافت نشد یا خراب شده است.\nلطفاً بازی را دوباره نصب کنید."

@@ -158,6 +158,7 @@ translate Persian style subtitles:
     font "gui/font/Sahel.ttf"
     shaper "harfbuzz"
     reading_order None
+    xalign 0.5
 
 translate Persian python:
     # Dialog suffixes and prefixes
@@ -178,63 +179,41 @@ translate Persian python:
 image mcredits_1a_Persian:
     ypos credits_ypos_tl
     xoffset 144
-    "black"
-    3.0
-    Text("Every day,{#translate}", style="monika_credits_text_Persian") with ImageDissolve("images/menu/wipeleft.png", 10.66, ramplen=4, reverse=True, alpha=False)
+    MusicSyncedCreditText("Every day,{#translate}", 6.03, 15.0, style="monika_credits_text_Persian", reverse=True)
 image mcredits_1b_Persian:
     ypos credits_ypos_tl
     xoffset 35
-    "black"
-    5.1
-    Text("I imagine a future where{#translate}", style="monika_credits_text_Persian") with ImageDissolve("images/menu/wipeleft.png", 10.5, ramplen=4, reverse=True, alpha=False)
+    MusicSyncedCreditText("I imagine a future where{#translate}", 9.0, 12.0, style="monika_credits_text_Persian", reverse=True)
 image mcredits_1c_Persian:
     ypos credits_ypos_tl
     xoffset -109
-    "black"
-    3.7
-    Text("I can be with you{#translate}", style="monika_credits_text_Persian") with ImageDissolve("images/menu/wipeleft.png", 15.0, ramplen=4, reverse=True, alpha=False)
+    MusicSyncedCreditText("I can be with you{#translate}", 10.0, 14.5, style="monika_credits_text_Persian", reverse=True)
 image mcredits_2a_Persian:
     ypos credits_ypos_tl + 65
     xoffset 141
-    "black"
-    10.4
-    Text("In my hand{#translate}", style="monika_credits_text_Persian") with ImageDissolve("images/menu/wipeleft.png", 13.0, ramplen=4, reverse=True, alpha=False)
+    MusicSyncedCreditText("In my hand{#translate}", 15.7, 13.0, style="monika_credits_text_Persian", reverse=True)
 image mcredits_2b_Persian:
     ypos credits_ypos_tl + 65
     xoffset 15
-    "black"
-    14.8
-    Text(" is a pen that will write a poem{#translate}", style="monika_credits_text_Persian") with ImageDissolve("images/menu/wipeleft.png", 9.8, ramplen=4, reverse=True, alpha=False)
+    MusicSyncedCreditText(" is a pen that will write a poem{#translate}", 18.4, 10.9, style="monika_credits_text_Persian", reverse=True)
 image mcredits_2c_Persian:
     ypos credits_ypos_tl + 65
     xoffset -121
-    "black"
-    13.7
-    Text("of me and you{#translate}", style="monika_credits_text_Persian") with ImageDissolve("images/menu/wipeleft.png", 14.0, ramplen=4, reverse=True, alpha=False)
+    MusicSyncedCreditText("of me and you{#translate}", 19.0, 15.5, style="monika_credits_text_Persian", reverse=True)
 image mcredits_3_Persian:
     ypos credits_ypos_tl + 115
-    "black"
-    17.5
-    Text("The ink flows down into a dark puddle{#translate}", style="monika_credits_text_Persian") with ImageDissolve("images/menu/wipeleft.png", 17.9, ramplen=4, reverse=True, alpha=False)
+    MusicSyncedCreditText("The ink flows down into a dark puddle{#translate}", 24.4, 19.2, style="monika_credits_text_Persian", reverse=True)
 image mcredits_4_Persian:
     ypos credits_ypos_tl + 175
-    "black"
-    27.8
-    Text(" Just move your hand -- write the way into his heart!{#translate}", style="monika_credits_text_Persian") with ImageDissolve("images/menu/wipeleft.png", 9.7, ramplen=4, reverse=True, alpha=False)
+    MusicSyncedCreditText(" Just move your hand -- write the way into his heart!{#translate}", 30.9, 11.9, style="monika_credits_text_Persian", reverse=True)
 image mcredits_5_Persian:
     ypos credits_ypos_tl + 230
-    "black"
-    29.5
-    Text("But in this world of infinite choices{#translate}", style="monika_credits_text_Persian") with ImageDissolve("images/menu/wipeleft.png", 13.7, ramplen=4, reverse=True, alpha=False)
+    MusicSyncedCreditText("But in this world of infinite choices{#translate}", 34.5, 16.0, style="monika_credits_text_Persian", reverse=True)
 image mcredits_6a_Persian:
     ypos credits_ypos_tl + 290
     xoffset 94
-    "black"
-    31.75
-    Text(" What will it take{#translate}", style="monika_credits_text_Persian") with ImageDissolve("images/menu/wipeleft.png", 14.8, ramplen=4, reverse=True, alpha=False)
+    MusicSyncedCreditText(" What will it take{#translate}", 37.9, 15.0, style="monika_credits_text_Persian", reverse=True)
 image mcredits_6b_Persian:
     ypos credits_ypos_tl + 290
     xoffset -31
-    "black"
-    37.82
-    Text(" just to find that special day?{#translate}", style="monika_credits_text_Persian") with ImageDissolve("images/menu/wipeleft.png", 9.2, ramplen=4, reverse=True, alpha=False)
+    MusicSyncedCreditText(" just to find that special day?{#translate}", 40.92, 11.6, style="monika_credits_text_Persian", reverse=True)
