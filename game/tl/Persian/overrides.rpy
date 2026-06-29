@@ -53,6 +53,10 @@ translate Persian style edited:
     textalign 1.0
     xalign 1.0
 
+translate Persian style splash_text:
+    shaper "harfbuzz"
+    reading_order "rtl"
+
 translate Persian style game_menu_label_text:
     font "gui/font/Estedad-Black.ttf"
     shaper "harfbuzz"
