@@ -62,45 +62,6 @@ init -990 python:
     sys.modules['renpy.exports'].file = _ddlc_file
 
     import os
-    try:
-        import builtins
-    except ImportError:
-        import __builtin__ as builtins
-
-    _real_builtins_open = builtins.open
-
-    class _DDLCOpenWrapper(object):
-        """Wraps an open() file object so that 'wb' mode accepts str (encoding it to bytes),
-        matching Python 2 behavior where str and bytes were the same."""
-        def __init__(self, f):
-            self._f = f
-        def write(self, data):
-            if isinstance(data, str):
-                data = data.encode('utf-8')
-            return self._f.write(data)
-        def writelines(self, lines):
-            new_lines = []
-            for line in lines:
-                if isinstance(line, str):
-                    new_lines.append(line.encode('utf-8'))
-                else:
-                    new_lines.append(line)
-            return self._f.writelines(new_lines)
-        def __getattr__(self, name):
-            return getattr(self._f, name)
-        def __enter__(self):
-            return self
-        def __exit__(self, exc_type, exc_val, exc_tb):
-            return self._f.__exit__(exc_type, exc_val, exc_tb)
-
-    def _ddlc_open(file, mode='r', buffering=-1, encoding=None, errors=None, newline=None, closefd=True, opener=None):
-        f = _real_builtins_open(file, mode, buffering, encoding, errors, newline, closefd, opener)
-        if 'w' in mode and 'b' in mode:
-            return _DDLCOpenWrapper(f)
-        return f
-
-    builtins.open = _ddlc_open
-    open = _ddlc_open
     
     def _macos_readonly_check(label, abnormal):
         if label == "splashscreen":
