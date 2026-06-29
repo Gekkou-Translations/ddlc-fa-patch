@@ -12,7 +12,7 @@ translate Persian strings:
     new "یوری"
 
     old "Nat & Yuri"
-    new "ناتسوکی و یوری"
+    new "نات و یوری"
 
     old "???"
     new "؟؟؟"
