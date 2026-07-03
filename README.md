@@ -40,8 +40,9 @@ __این پروژه کاملاً غیررسمی بوده و به هیچ‌وجه
 
 ## تقدیر &#x200f;
 
-- [پچ ترجمۀ غیررسمی ژاپنی](https://github.com/proudust/ddlc-jp-patch): الهام و پایۀ پروژه
+- [ddlc-jp-patch](https://github.com/proudust/ddlc-jp-patch): الهام و پایۀ پروژه
 - [img-encode](https://github.com/alexadam/img-encode): تبدیل عکس به طیف‌نگاره
+- [ddlc-renpy8](https://github.com/yorkyang2333/ddlc-renpy8): بازنویسی کد متن تقدیرات بازی
 
 ## لینک‌های بازی
 
