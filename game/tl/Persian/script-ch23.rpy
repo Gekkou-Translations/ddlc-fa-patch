@@ -665,7 +665,7 @@ translate Persian ch23_end_override_1362d6af:
     y "من به تو معتاد شدم."
 
 translate Persian ch23_end_override_5e6ebd2a:
-    y 3y4 "حس می‌کنم اگه هوایی که تو نفس می‌کشی و نکشم، می‌میرم."
+    y 3y4 "حس می‌کنم اگه هوایی که تو نفس می‌کشی رو نکشم، می‌میرم."
 
 translate Persian ch23_end_override_14185dfe:
     y 4a "خیلی خوبه که یه نفر انقدر بهت اهمیت می‌ده، نه؟"
@@ -1524,7 +1524,7 @@ translate Persian strings:
     new "من به تو معتاد شدم."
 
     old "{#ch23_end_override_5e6ebd2a}"
-    new "حس می‌کنم اگه هوایی که تو نفس می‌کشی و نکشم، می‌میرم."
+    new "حس می‌کنم اگه هوایی که تو نفس می‌کشی رو نکشم، می‌میرم."
 
     old "{#ch23_end_override_14185dfe}"
     new "خیلی خوبه که یه نفر انقدر بهت اهمیت می‌ده، نه؟"

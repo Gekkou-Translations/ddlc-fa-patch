@@ -125,7 +125,7 @@ translate Persian natsuki_exclusive_1_8c231d22:
     "و کتاب رو می‌چپونه تو دستم."
 
 translate Persian natsuki_exclusive_1_93deaf69:
-    mc "آه…"
+    mc "عا…"
 
 translate Persian natsuki_exclusive_1_ea5a5f1b:
     "به جلدش نگاه می‌کنم."
@@ -764,7 +764,7 @@ translate Persian natsuki_exclusive_2_ch3_c580c645:
     n "دوباره مانگاهام رو جابه‌جا کردی؟!"
 
 translate Persian natsuki_exclusive_2_ch3_96b67ead:
-    m "آه، ببخشید، ببخشید!"
+    m "عا، ببخشید، ببخشید!"
 
 translate Persian natsuki_exclusive_2_ch3_cf02ffb4:
     m "معلم عصبانی شد که توی کمدش انقدر فضا اشغال کرده بودم…"
@@ -806,7 +806,7 @@ translate Persian natsuki_exclusive_2_ch3_b3e04671:
     n "چرا باید یه نفر اون بالا حرومش کنه؟"
 
 translate Persian natsuki_exclusive_2_ch3_fa810c86:
-    mc "آه، ناتسوکی…"
+    mc "آها، ناتسوکی…"
 
 translate Persian natsuki_exclusive_2_ch3_da0ff16e:
     mc "یه چارپایه اون‌جا روی دیواره."
@@ -914,7 +914,7 @@ translate Persian natsuki_exclusive_2_ch3_ff4ef696:
     n "به کمکت نیاز ندارم، فهمیدی؟"
 
 translate Persian natsuki_exclusive_2_ch3_0a69f768:
-    mc "هااه…"
+    mc "آه…"
 
 translate Persian natsuki_exclusive_2_ch3_31e0117b:
     n "یه لحظه وایستا؛ الآن می‌رم یه صندلی بیارم."
@@ -1292,7 +1292,7 @@ translate Persian natsuki_exclusive_2_ch3_812e0f32:
     "رو صورتش اشک می‌بینم."
 
 translate Persian natsuki_exclusive_2_ch3_93deaf69:
-    mc "آه…"
+    mc "عا…"
 
 translate Persian natsuki_exclusive_2_ch3_0846eec7:
     mc "بهت کمک می‌کنم خطش رو صاف کنی، باشه؟"
@@ -1644,7 +1644,7 @@ translate Persian strings:
     new "و کتاب رو می‌چپونه تو دستم."
 
     old "{#natsuki_exclusive_1_93deaf69}"
-    new "آه…"
+    new "عا…"
 
     old "{#natsuki_exclusive_1_ea5a5f1b}"
     new "به جلدش نگاه می‌کنم."
@@ -2283,7 +2283,7 @@ translate Persian strings:
     new "دوباره مانگاهام رو جابه‌جا کردی؟!"
 
     old "{#natsuki_exclusive_2_ch3_96b67ead}"
-    new "آه، ببخشید، ببخشید!"
+    new "عا، ببخشید، ببخشید!"
 
     old "{#natsuki_exclusive_2_ch3_cf02ffb4}"
     new "معلم عصبانی شد که توی کمدش انقدر فضا اشغال کرده بودم…"
@@ -2325,7 +2325,7 @@ translate Persian strings:
     new "چرا باید یه نفر اون بالا حرومش کنه؟"
 
     old "{#natsuki_exclusive_2_ch3_fa810c86}"
-    new "آه، ناتسوکی…"
+    new "آها، ناتسوکی…"
 
     old "{#natsuki_exclusive_2_ch3_da0ff16e}"
     new "یه چارپایه اون‌جا روی دیواره."
@@ -2433,7 +2433,7 @@ translate Persian strings:
     new "به کمکت نیاز ندارم، فهمیدی؟"
 
     old "{#natsuki_exclusive_2_ch3_0a69f768}"
-    new "هااه…"
+    new "آه…"
 
     old "{#natsuki_exclusive_2_ch3_31e0117b}"
     new "یه لحظه وایستا؛ الآن می‌رم یه صندلی بیارم."
@@ -2811,7 +2811,7 @@ translate Persian strings:
     new "رو صورتش اشک می‌بینم."
 
     old "{#natsuki_exclusive_2_ch3_93deaf69}"
-    new "آه…"
+    new "عا…"
 
     old "{#natsuki_exclusive_2_ch3_0846eec7}"
     new "بهت کمک می‌کنم خطش رو صاف کنی، باشه؟"

@@ -2,7 +2,7 @@ translate Persian sayori_exclusive_1_ebd278f3:
     "ای بابا…"
 
 translate Persian sayori_exclusive_1_75a8ab85:
-    "مثل اینکه امروزهمه می‌خوان تنها باشن."
+    "مثل اینکه امروز همه می‌خوان تنها باشن."
 
 translate Persian sayori_exclusive_1_a3dd5dba:
     "رو نزدیک‌ترین صندلی خودم رو ولو می‌کنم."
@@ -86,7 +86,7 @@ translate Persian sayori_exclusive_1_4e085cf3:
     s 1n "چ‍-چه نوعی؟!"
 
 translate Persian sayori_exclusive_1_e67c3d03:
-    m 2b "آه… خب، می‌تونیم--"
+    m 2b "عا… خب، می‌تونیم--"
 
 translate Persian sayori_exclusive_1_47b1e3cd:
     s "کاپ‌کیک!"
@@ -110,7 +110,7 @@ translate Persian sayori_exclusive_1_0633c181:
     m 1d "مگه به خاطر همین پیشنهاد ندادی…؟"
 
 translate Persian sayori_exclusive_1_f27be215:
-    s 4q "کاپ‌کیک سوخت شیه‌کم خلاقمه~"
+    s 4q "کاپ‌کیک سوخت شیکم خلاقمه~"
 
 translate Persian sayori_exclusive_1_a01fa8fe:
     m 1l "…"
@@ -125,16 +125,16 @@ translate Persian sayori_exclusive_1_bd7ee0bf:
     m 1a "بگذریم، ما هنوز باید جزئیات برنامه رو هم بچینیم…"
 
 translate Persian sayori_exclusive_1_383b3fe0:
-    "بدوناینکه خودم بفهمم، می‌بینم دارم لبخند می‌زنم."
+    "بدون اینکه خودم بفهمم، می‌بینم دارم لبخند می‌زنم."
 
 translate Persian sayori_exclusive_1_62cb7948:
     "آخر سر، سایوری همون همیشگی‌اشه."
 
 translate Persian sayori_exclusive_1_467d437c:
-    "ولی داخل اون، دلیل احترامم بهش وجود داره."
+    "ولی برای همین بهش احترام هم قائلم."
 
 translate Persian sayori_exclusive_1_43defa01:
-    "برعکس من، که تو پیدا کردن ذره انگیزه مشکل دارم…"
+    "برعکس من، که تو پیدا کردن یه ذره انگیزه مشکل دارم…"
 
 translate Persian sayori_exclusive_1_756297ea:
     "سایوری می‌تونه همین‌طوری رو چیزهای مختلف تمرکز کنه و اون‌ها رو به نتیجه برسونه."
@@ -392,7 +392,7 @@ translate Persian sayori_exclusive_1_956085d7:
     s "وقتی گرفته بودمش، می‌شد."
 
 translate Persian sayori_exclusive_1_0a69f768:
-    mc "هااه…"
+    mc "آه…"
 
 translate Persian sayori_exclusive_1_ddaf00ce:
     mc "اگه تا حالا دکمه‌هاش رو می‌بستی، زودتر متوجه می‌شدی که دیگه اندازه‌ات نمی‌شه."
@@ -416,7 +416,7 @@ translate Persian sayori_exclusive_1_e8dff0de:
     mc "الآن خیلی بهتر شدی…"
 
 translate Persian sayori_exclusive_1_93deaf69:
-    mc "آه…"
+    mc "عا…"
 
 translate Persian sayori_exclusive_1_8a634766:
     "…چرا انقدر بسته بودن دکمه‌های کت سایوری عجیب به نظر می‌آد؟"
@@ -428,7 +428,7 @@ translate Persian sayori_exclusive_1_20d2fea2:
     s "اووو…"
 
 translate Persian sayori_exclusive_1_08daea23:
-    s "هیچ‌هم ارزشش رو نداشت!"
+    s "هیچ هم ارزشش رو نداشت!"
 
 translate Persian sayori_exclusive_1_dae903cd:
     "سایوری به سرعت دکمه‌های کتش رو دوباره باز می‌کنه."
@@ -1184,7 +1184,7 @@ translate Persian sayori_exclusive_2_0c55e269:
     "چیزی طول نکشید که به باشگاه می‌رسیم."
 
 translate Persian sayori_exclusive_2_25f9f91b:
-    m "آه، برگشتین!"
+    m "عه، برگشتین!"
 
 translate Persian sayori_exclusive_2_d67d39ac:
     m "خوب موقعی رسیدین؛ همین الآن داشتم حاضر می‌شدم که شعرهامون رو به هم نشون بدیم."
@@ -1278,7 +1278,7 @@ translate Persian strings:
     new "ای بابا…"
 
     old "{#sayori_exclusive_1_75a8ab85}"
-    new "مثل اینکه امروزهمه می‌خوان تنها باشن."
+    new "مثل اینکه امروز همه می‌خوان تنها باشن."
 
     old "{#sayori_exclusive_1_a3dd5dba}"
     new "رو نزدیک‌ترین صندلی خودم رو ولو می‌کنم."
@@ -1362,7 +1362,7 @@ translate Persian strings:
     new "چ‍-چه نوعی؟!"
 
     old "{#sayori_exclusive_1_e67c3d03}"
-    new "آه… خب، می‌تونیم--"
+    new "عا… خب، می‌تونیم--"
 
     old "{#sayori_exclusive_1_47b1e3cd}"
     new "کاپ‌کیک!"
@@ -1386,7 +1386,7 @@ translate Persian strings:
     new "مگه به خاطر همین پیشنهاد ندادی…؟"
 
     old "{#sayori_exclusive_1_f27be215}"
-    new "کاپ‌کیک سوخت شیه‌کم خلاقمه~"
+    new "کاپ‌کیک سوخت شیکم خلاقمه~"
 
     old "{#sayori_exclusive_1_a01fa8fe}"
     new "…"
@@ -1401,16 +1401,16 @@ translate Persian strings:
     new "بگذریم، ما هنوز باید جزئیات برنامه رو هم بچینیم…"
 
     old "{#sayori_exclusive_1_383b3fe0}"
-    new "بدوناینکه خودم بفهمم، می‌بینم دارم لبخند می‌زنم."
+    new "بدون اینکه خودم بفهمم، می‌بینم دارم لبخند می‌زنم."
 
     old "{#sayori_exclusive_1_62cb7948}"
     new "آخر سر، سایوری همون همیشگی‌اشه."
 
     old "{#sayori_exclusive_1_467d437c}"
-    new "ولی داخل اون، دلیل احترامم بهش وجود داره."
+    new "ولی برای همین بهش احترام هم قائلم."
 
     old "{#sayori_exclusive_1_43defa01}"
-    new "برعکس من، که تو پیدا کردن ذره انگیزه مشکل دارم…"
+    new "برعکس من، که تو پیدا کردن یه ذره انگیزه مشکل دارم…"
 
     old "{#sayori_exclusive_1_756297ea}"
     new "سایوری می‌تونه همین‌طوری رو چیزهای مختلف تمرکز کنه و اون‌ها رو به نتیجه برسونه."
@@ -1668,7 +1668,7 @@ translate Persian strings:
     new "وقتی گرفته بودمش، می‌شد."
 
     old "{#sayori_exclusive_1_0a69f768}"
-    new "هااه…"
+    new "آه…"
 
     old "{#sayori_exclusive_1_ddaf00ce}"
     new "اگه تا حالا دکمه‌هاش رو می‌بستی، زودتر متوجه می‌شدی که دیگه اندازه‌ات نمی‌شه."
@@ -1692,7 +1692,7 @@ translate Persian strings:
     new "الآن خیلی بهتر شدی…"
 
     old "{#sayori_exclusive_1_93deaf69}"
-    new "آه…"
+    new "عا…"
 
     old "{#sayori_exclusive_1_8a634766}"
     new "…چرا انقدر بسته بودن دکمه‌های کت سایوری عجیب به نظر می‌آد؟"
@@ -1704,7 +1704,7 @@ translate Persian strings:
     new "اووو…"
 
     old "{#sayori_exclusive_1_08daea23}"
-    new "هیچ‌هم ارزشش رو نداشت!"
+    new "هیچ هم ارزشش رو نداشت!"
 
     old "{#sayori_exclusive_1_dae903cd}"
     new "سایوری به سرعت دکمه‌های کتش رو دوباره باز می‌کنه."
@@ -2460,7 +2460,7 @@ translate Persian strings:
     new "چیزی طول نکشید که به باشگاه می‌رسیم."
 
     old "{#sayori_exclusive_2_25f9f91b}"
-    new "آه، برگشتین!"
+    new "عه، برگشتین!"
 
     old "{#sayori_exclusive_2_d67d39ac}"
     new "خوب موقعی رسیدین؛ همین الآن داشتم حاضر می‌شدم که شعرهامون رو به هم نشون بدیم."

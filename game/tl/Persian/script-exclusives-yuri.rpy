@@ -569,7 +569,7 @@ translate Persian yuri_exclusive_1_095693f5:
     m "اگه خیلی صبر کنیم، ممکنه زمان کافی نداشته باشیم."
 
 translate Persian yuri_exclusive_1_417c4895:
-    y 3w "آه…"
+    y 3w "عا…"
 
 translate Persian yuri_exclusive_1_8b293e73:
     "یوری یه نفس بیرون می‌ده، که از تموم کردن جمله‌اش رها شده."
@@ -647,7 +647,7 @@ translate Persian yuri_exclusive_2_58cac761:
     mc "ببخشید! نمی‌خواستم مزاحمت بشم…"
 
 translate Persian yuri_exclusive_2_8849a940:
-    y 2m "آه، نه…"
+    y 2m "آها، نه…"
 
 translate Persian yuri_exclusive_2_043b8fc5:
     y "من هم یه‌جورهایی منتظرت بودم…"
@@ -1076,7 +1076,7 @@ translate Persian yuri_exclusive_2_ch3_fa75c129:
     "کتاب رو از کیفم در می‌آرم."
 
 translate Persian yuri_exclusive_2_ch3_33179bd7:
-    mc "آه، من چند تا شکلات هم دارم…"
+    mc "آها، من چند تا شکلات هم دارم…"
 
 translate Persian yuri_exclusive_2_ch3_c42403a3:
     "یه کیسه پر از شکلات‌های کوچیکه."
@@ -1142,10 +1142,10 @@ translate Persian yuri_exclusive_2_ch3_c510b9b5:
     "بعد از چند دقیقه، بالآخره یه ذره راحت‌تر می‌شم."
 
 translate Persian yuri_exclusive_2_ch3_76549943:
-    "فنجون رو بین پاهام می‌ذاره، و با کاغذ شکلات ور می‌رم."
+    "فنجون رو بین پاهام می‌ذارم، و با کاغذ شکلات ور می‌رم."
 
 translate Persian yuri_exclusive_2_ch3_2787f9a7:
-    mc "آه، ببخشید…"
+    mc "عا، ببخشید…"
 
 translate Persian yuri_exclusive_2_ch3_61683ed9:
     "من کتاب رو یه لحظه ول می‌کنم تا کاغذ رو کامل باز کنم."
@@ -1154,7 +1154,7 @@ translate Persian yuri_exclusive_2_ch3_0183dede:
     mc "هر چقدر می‌خوای، می‌تونی بخوری."
 
 translate Persian yuri_exclusive_2_ch3_a9ce267b:
-    y 2s "آه، آخه…"
+    y 2s "عا، آخه…"
 
 translate Persian yuri_exclusive_2_ch3_54b4955c:
     y "ممنون، من نمی‌خورم…"
@@ -1256,7 +1256,7 @@ translate Persian yuri_exclusive_2_ch3_304b7207:
     mc "نباید این کار رو می‌کردم…"
 
 translate Persian yuri_exclusive_2_ch3_3c879c45:
-    y "آه، این…"
+    y "عا، این…"
 
 translate Persian yuri_exclusive_2_ch3_ae7f22e8:
     y "خب…"
@@ -1328,7 +1328,7 @@ translate Persian yuri_exclusive_2_ch3_e6176dff:
     "دستم رو بلند می‌کنم…"
 
 translate Persian yuri_exclusive_2_ch3_728dcbc5:
-    y "آه…"
+    y "عا…"
 
 translate Persian yuri_exclusive_2_ch3_41427b33:
     "مثل قبل، یوری لب‌هاش رو باز می‌کنه."
@@ -1962,7 +1962,7 @@ translate Persian strings:
     new "اگه خیلی صبر کنیم، ممکنه زمان کافی نداشته باشیم."
 
     old "{#yuri_exclusive_1_417c4895}"
-    new "آه…"
+    new "عا…"
 
     old "{#yuri_exclusive_1_8b293e73}"
     new "یوری یه نفس بیرون می‌ده، که از تموم کردن جمله‌اش رها شده."
@@ -2040,7 +2040,7 @@ translate Persian strings:
     new "ببخشید! نمی‌خواستم مزاحمت بشم…"
 
     old "{#yuri_exclusive_2_8849a940}"
-    new "آه، نه…"
+    new "آها، نه…"
 
     old "{#yuri_exclusive_2_043b8fc5}"
     new "من هم یه‌جورهایی منتظرت بودم…"
@@ -2469,7 +2469,7 @@ translate Persian strings:
     new "کتاب رو از کیفم در می‌آرم."
 
     old "{#yuri_exclusive_2_ch3_33179bd7}"
-    new "آه، من چند تا شکلات هم دارم…"
+    new "آها، من چند تا شکلات هم دارم…"
 
     old "{#yuri_exclusive_2_ch3_c42403a3}"
     new "یه کیسه پر از شکلات‌های کوچیکه."
@@ -2535,10 +2535,10 @@ translate Persian strings:
     new "بعد از چند دقیقه، بالآخره یه ذره راحت‌تر می‌شم."
 
     old "{#yuri_exclusive_2_ch3_76549943}"
-    new "فنجون رو بین پاهام می‌ذاره، و با کاغذ شکلات ور می‌رم."
+    new "فنجون رو بین پاهام می‌ذارم، و با کاغذ شکلات ور می‌رم."
 
     old "{#yuri_exclusive_2_ch3_2787f9a7}"
-    new "آه، ببخشید…"
+    new "عا، ببخشید…"
 
     old "{#yuri_exclusive_2_ch3_61683ed9}"
     new "من کتاب رو یه لحظه ول می‌کنم تا کاغذ رو کامل باز کنم."
@@ -2547,7 +2547,7 @@ translate Persian strings:
     new "هر چقدر می‌خوای، می‌تونی بخوری."
 
     old "{#yuri_exclusive_2_ch3_a9ce267b}"
-    new "آه، آخه…"
+    new "عا، آخه…"
 
     old "{#yuri_exclusive_2_ch3_54b4955c}"
     new "ممنون، من نمی‌خورم…"
@@ -2649,7 +2649,7 @@ translate Persian strings:
     new "نباید این کار رو می‌کردم…"
 
     old "{#yuri_exclusive_2_ch3_3c879c45}"
-    new "آه، این…"
+    new "عا، این…"
 
     old "{#yuri_exclusive_2_ch3_ae7f22e8}"
     new "خب…"
@@ -2721,7 +2721,7 @@ translate Persian strings:
     new "دستم رو بلند می‌کنم…"
 
     old "{#yuri_exclusive_2_ch3_728dcbc5}"
-    new "آه…"
+    new "عا…"
 
     old "{#yuri_exclusive_2_ch3_41427b33}"
     new "مثل قبل، یوری لب‌هاش رو باز می‌کنه."

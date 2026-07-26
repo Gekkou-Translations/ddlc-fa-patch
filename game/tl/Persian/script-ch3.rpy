@@ -734,7 +734,7 @@ translate Persian ch3_start_yuri_2c978512:
     y "من هم امروز متوجه رفتار عجیبش شدم…"
 
 translate Persian ch3_start_yuri_9016fb99:
-    y "و همچنین کمی نگرانش‌ام."
+    y "و همچنین کمی نگرانشم."
 
 translate Persian ch3_start_yuri_dddc1645:
     y 1f "ولی مثل اینکه فکر تو رو خیلی مشغول کرده، نه؟"
@@ -752,7 +752,7 @@ translate Persian ch3_start_yuri_da2ff30c:
     y "برات… خیلی فرد عزیزیه، نه؟"
 
 translate Persian ch3_start_yuri_c25ffd48:
-    mc "عا--عا… آره، شاید…"
+    mc "عا--آ… آره، شاید…"
 
 translate Persian ch3_start_yuri_425a7bc2:
     mc "ولی نیاز نیست این‌طوری بگی!"
@@ -920,7 +920,7 @@ translate Persian ch3_end_24e93c44:
     y "…راست می‌گی."
 
 translate Persian ch3_end_2a255601:
-    m "هااه…"
+    m "آه…"
 
 translate Persian ch3_end_6e2840f0:
     m 2d "سایوری همیشه می‌دونست چطوری حال‌وهوای کلاس رو عوض کنه، نه؟"
@@ -1460,7 +1460,7 @@ translate Persian ch3_end_monika_98dba970:
     m "متوجه شدم!"
 
 translate Persian ch3_end_monika_628ac17d:
-    m 1r "هااه…"
+    m 1r "آه…"
 
 translate Persian ch3_end_monika_8cc24be7:
     m 1g "[player]… منطقی‌ترین کار اینه که به یکی از اون‌ها کمک کنی."
@@ -1994,7 +1994,7 @@ translate Persian ch3_end_yuri_80300763:
     y "من اصلاً همچین منظوری نداشتم!"
 
 translate Persian ch3_end_yuri_ac74122e:
-    y 3o "آ-آه…"
+    y 3o "عا-ا…"
 
 translate Persian ch3_end_yuri_6ce9125b:
     "یوری با اضطراب به همه تو کلاس نگاه می‌اندازه."
@@ -3027,7 +3027,7 @@ translate Persian strings:
     new "من هم امروز متوجه رفتار عجیبش شدم…"
 
     old "{#ch3_start_yuri_9016fb99}"
-    new "و همچنین کمی نگرانش‌ام."
+    new "و همچنین کمی نگرانشم."
 
     old "{#ch3_start_yuri_dddc1645}"
     new "ولی مثل اینکه فکر تو رو خیلی مشغول کرده، نه؟"
@@ -3045,7 +3045,7 @@ translate Persian strings:
     new "برات… خیلی فرد عزیزیه، نه؟"
 
     old "{#ch3_start_yuri_c25ffd48}"
-    new "عا--عا… آره، شاید…"
+    new "عا--آ… آره، شاید…"
 
     old "{#ch3_start_yuri_425a7bc2}"
     new "ولی نیاز نیست این‌طوری بگی!"
@@ -3213,7 +3213,7 @@ translate Persian strings:
     new "…راست می‌گی."
 
     old "{#ch3_end_2a255601}"
-    new "هااه…"
+    new "آه…"
 
     old "{#ch3_end_6e2840f0}"
     new "سایوری همیشه می‌دونست چطوری حال‌وهوای کلاس رو عوض کنه، نه؟"
@@ -3753,7 +3753,7 @@ translate Persian strings:
     new "متوجه شدم!"
 
     old "{#ch3_end_monika_628ac17d}"
-    new "هااه…"
+    new "آه…"
 
     old "{#ch3_end_monika_8cc24be7}"
     new "[player]… منطقی‌ترین کار اینه که به یکی از اون‌ها کمک کنی."
@@ -4287,7 +4287,7 @@ translate Persian strings:
     new "من اصلاً همچین منظوری نداشتم!"
 
     old "{#ch3_end_yuri_ac74122e}"
-    new "آ-آه…"
+    new "عا-ا…"
 
     old "{#ch3_end_yuri_6ce9125b}"
     new "یوری با اضطراب به همه تو کلاس نگاه می‌اندازه."

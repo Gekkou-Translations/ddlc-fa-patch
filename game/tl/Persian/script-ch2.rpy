@@ -890,7 +890,7 @@ translate Persian ch2_end_454e5345:
     "یوری با ناراحتی به چهره‌های متوقع بقیه نگاه می‌کنه."
 
 translate Persian ch2_end_ad226d63:
-    y "هااه…"
+    y "آه…"
 
 translate Persian ch2_end_8ca97570:
     y "م‍-مثل اینکه چاره‌ی دیگه‌ای ندارم…"
@@ -2622,7 +2622,7 @@ translate Persian strings:
     new "یوری با ناراحتی به چهره‌های متوقع بقیه نگاه می‌کنه."
 
     old "{#ch2_end_ad226d63}"
-    new "هااه…"
+    new "آه…"
 
     old "{#ch2_end_8ca97570}"
     new "م‍-مثل اینکه چاره‌ی دیگه‌ای ندارم…"

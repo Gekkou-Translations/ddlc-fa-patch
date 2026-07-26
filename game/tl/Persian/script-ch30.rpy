@@ -425,7 +425,7 @@ translate Persian ch30_postpoem_override_a625ee7b:
     m "من همیشه با جون و دل شعرهام رو می‌نویسم."
 
 translate Persian ch30_postpoem_override_8793fb5f:
-    m "راستش، همه‌ی شعرهایی که نوشتم در مورد وحیم بود…"
+    m "راستش، همه‌ی شعرهایی که نوشتم در مورد وحی من بود…"
 
 translate Persian ch30_postpoem_override_035cb79b:
     m "…یا، در مورد تو."
@@ -3729,7 +3729,7 @@ translate Persian strings:
     new "من همیشه با جون و دل شعرهام رو می‌نویسم."
 
     old "{#ch30_postpoem_override_8793fb5f}"
-    new "راستش، همه‌ی شعرهایی که نوشتم در مورد وحیم بود…"
+    new "راستش، همه‌ی شعرهایی که نوشتم در مورد وحی من بود…"
 
     old "{#ch30_postpoem_override_035cb79b}"
     new "…یا، در مورد تو."

@@ -77,7 +77,7 @@ translate Persian ch1_y_end_6539d963:
     y 1a "چون اولین باره که به هم‌دیگه نشون می‌دیم، می‌خواستم یه چیز نسبتاً ملایمی بنویسم."
 
 translate Persian ch1_y_end_484c63bd:
-    y "یه چیزی که فهمه‌اش آسون‌تر باشه، به نوعی."
+    y "یه چیزی که فهمش آسون‌تر باشه، به نوعی."
 
 translate Persian ch1_y_end_ba4db005:
     mc "تو به ارواح علاقه داری، یوری؟"
@@ -92,7 +92,7 @@ translate Persian ch1_y_end_a31340dd:
     mc "واقعاً؟"
 
 translate Persian ch1_y_end_af8693e1:
-    mc "پس احتمالاً کلاًً اشتباه متوجه شدمش…"
+    mc "پس احتمالاً کلاً اشتباه متوجه شدمش…"
 
 translate Persian ch1_y_end_3a91ba77:
     y 1u "حالا، البته تو فقط یه نگاه کوتاهی روش انداختی…"
@@ -158,7 +158,7 @@ translate Persian ch1_y_end_41c5cdf9:
     y "برای تو تمام تلاشم رو می‌کنم، [player]."
 
 translate Persian ch1_y_end_93deaf69:
-    mc "آه…"
+    mc "عا…"
 
 translate Persian ch1_y_end_74fc6761:
     mc "من هم همین‌طور."
@@ -1166,7 +1166,7 @@ translate Persian ch1_s_end_6eddcdae:
     s "مونیکا حرف نداره!"
 
 translate Persian ch1_s_end_21d5c9ec:
-    mc "آه… آره."
+    mc "عا… آره."
 
 translate Persian ch1_s_end_6f0fbb10:
     s "ولی دفعه‌ی بعد، یادم نمی‌ره."
@@ -1613,7 +1613,7 @@ translate Persian ch1_n_med_ba837edb:
     mc "نه ممنون…"
 
 translate Persian ch1_n_med_145a8f80:
-    n 42b "هااه…"
+    n 42b "آه…"
 
 translate Persian ch1_n_med_47a17aad:
     n 42c "حالا به هرحال، باید مال خودم رو به تو نشون بدم."
@@ -3572,7 +3572,7 @@ translate Persian ch2_s_good_bcbd9d1c:
     s "فکر نکنم متوجه شده باشم…"
 
 translate Persian ch2_s_good_0a69f768:
-    mc "هااه…"
+    mc "آه"
 
 translate Persian ch2_s_good_e93d5dfb:
     mc "تو هروقت من بهت یه چیزی توضیح می‌دم، متوجه نمی‌شی، مگه نه، سایوری؟"
@@ -3584,7 +3584,7 @@ translate Persian ch2_s_good_4df84939:
     s 4s "هاهاها! هییی!"
 
 translate Persian ch2_s_good_045a2219:
-    s "من یه نیستم ها!"
+    s "من یه بچه نیستم ها!"
 
 translate Persian ch2_s_good_88e906b0:
     mc "مطمئنی؟"
@@ -3632,7 +3632,7 @@ translate Persian ch2_s_good_db8f0469:
     s 5b "هههههه…"
 
 translate Persian ch2_s_good_0a69f768_1:
-    mc "هااه…"
+    mc "آه…"
 
 translate Persian ch2_s_good_5de8d254:
     mc "اصلاً گوش می‌کردی؟"
@@ -4130,7 +4130,7 @@ translate Persian ch1_y_shared_de867a0a:
     y "به بیانی دیگه، بیشتر مواقع یه سبکی جدا از موضوع انتخاب می‌کنن، و سعی می‌کنن هردو رو با هم جاسازی کنن."
 
 translate Persian ch1_y_shared_7aa556cf:
-    y 1a "در نتیجه، هم سبک و هم بیان شعر تصعیف می‌شه."
+    y 1a "در نتیجه، هم سبک و هم بیان شعر تضعیف می‌شه."
 
 translate Persian ch1_y_shared_fde92c86:
     "وقتی یوری افکارش رو جمع و جور می‌کنه، انگار که رفتارش زیرورو می‌شه."
@@ -5519,7 +5519,7 @@ translate Persian ch1_m_start_5af81672:
     m "نگران نباش، [player]!"
 
 translate Persian ch1_m_start_b174058f:
-    m "امروزهمه‌مون یه‌ذره خجالت می‌کشیم، می‌دونی؟"
+    m "امروز همه‌مون یه‌ذره خجالت می‌کشیم، می‌دونی؟"
 
 translate Persian ch1_m_start_5fd498a1:
     m "ولی این یه مانعیه که همه‌مون به زودی ازش رد می‌شیم."
@@ -5810,7 +5810,7 @@ translate Persian m_sayori_1_d67a109c:
     m "تعجب نمی‌کنم اگه همچین چیزهایی بینتون مشترک باشه."
 
 translate Persian m_sayori_1_9b1a0bbf:
-    mc "آه، خب…"
+    mc "عا، خب…"
 
 translate Persian m_sayori_1_56c5f4e9:
     mc "ما شاید با هم صمیمی باشیم؛ ولی راستش، من و سایوری خیلی متفاوتیم."
@@ -5942,7 +5942,7 @@ translate Persian m_natsuki_2_b03c2cd8:
     m "حتماً از سبک نوشتارش خوشت اومده."
 
 translate Persian m_natsuki_2_d080b42e:
-    mc "آه، آره…"
+    mc "عا، آره…"
 
 translate Persian m_natsuki_2_56691d3e:
     mc "به نظرم راه جالبی برای تعریف یه داستانه."
@@ -6513,7 +6513,7 @@ translate Persian strings:
     new "چون اولین باره که به هم‌دیگه نشون می‌دیم، می‌خواستم یه چیز نسبتاً ملایمی بنویسم."
 
     old "{#ch1_y_end_484c63bd}"
-    new "یه چیزی که فهمه‌اش آسون‌تر باشه، به نوعی."
+    new "یه چیزی که فهمش آسون‌تر باشه، به نوعی."
 
     old "{#ch1_y_end_ba4db005}"
     new "تو به ارواح علاقه داری، یوری؟"
@@ -6528,7 +6528,7 @@ translate Persian strings:
     new "واقعاً؟"
 
     old "{#ch1_y_end_af8693e1}"
-    new "پس احتمالاً کلاًً اشتباه متوجه شدمش…"
+    new "پس احتمالاً کلاً اشتباه متوجه شدمش…"
 
     old "{#ch1_y_end_3a91ba77}"
     new "حالا، البته تو فقط یه نگاه کوتاهی روش انداختی…"
@@ -6594,7 +6594,7 @@ translate Persian strings:
     new "برای تو تمام تلاشم رو می‌کنم، [player]."
 
     old "{#ch1_y_end_93deaf69}"
-    new "آه…"
+    new "عا…"
 
     old "{#ch1_y_end_74fc6761}"
     new "من هم همین‌طور."
@@ -7602,7 +7602,7 @@ translate Persian strings:
     new "مونیکا حرف نداره!"
 
     old "{#ch1_s_end_21d5c9ec}"
-    new "آه… آره."
+    new "عا… آره."
 
     old "{#ch1_s_end_6f0fbb10}"
     new "ولی دفعه‌ی بعد، یادم نمی‌ره."
@@ -8049,7 +8049,7 @@ translate Persian strings:
     new "نه ممنون…"
 
     old "{#ch1_n_med_145a8f80}"
-    new "هااه…"
+    new "آه…"
 
     old "{#ch1_n_med_47a17aad}"
     new "حالا به هرحال، باید مال خودم رو به تو نشون بدم."
@@ -10008,7 +10008,7 @@ translate Persian strings:
     new "فکر نکنم متوجه شده باشم…"
 
     old "{#ch2_s_good_0a69f768}"
-    new "هااه…"
+    new "آه…"
 
     old "{#ch2_s_good_e93d5dfb}"
     new "تو هروقت من بهت یه چیزی توضیح می‌دم، متوجه نمی‌شی، مگه نه، سایوری؟"
@@ -10020,7 +10020,7 @@ translate Persian strings:
     new "هاهاها! هییی!"
 
     old "{#ch2_s_good_045a2219}"
-    new "من یه نیستم ها!"
+    new "من یه بچه نیستم ها!"
 
     old "{#ch2_s_good_88e906b0}"
     new "مطمئنی؟"
@@ -10068,7 +10068,7 @@ translate Persian strings:
     new "هههههه…"
 
     old "{#ch2_s_good_0a69f768_1}"
-    new "هااه…"
+    new "آه…"
 
     old "{#ch2_s_good_5de8d254}"
     new "اصلاً گوش می‌کردی؟"
@@ -10566,7 +10566,7 @@ translate Persian strings:
     new "به بیانی دیگه، بیشتر مواقع یه سبکی جدا از موضوع انتخاب می‌کنن، و سعی می‌کنن هردو رو با هم جاسازی کنن."
 
     old "{#ch1_y_shared_7aa556cf}"
-    new "در نتیجه، هم سبک و هم بیان شعر تصعیف می‌شه."
+    new "در نتیجه، هم سبک و هم بیان شعر تضعیف می‌شه."
 
     old "{#ch1_y_shared_fde92c86}"
     new "وقتی یوری افکارش رو جمع و جور می‌کنه، انگار که رفتارش زیرورو می‌شه."
@@ -11955,7 +11955,7 @@ translate Persian strings:
     new "نگران نباش، [player]!"
 
     old "{#ch1_m_start_b174058f}"
-    new "امروزهمه‌مون یه‌ذره خجالت می‌کشیم، می‌دونی؟"
+    new "امروز همه‌مون یه‌ذره خجالت می‌کشیم، می‌دونی؟"
 
     old "{#ch1_m_start_5fd498a1}"
     new "ولی این یه مانعیه که همه‌مون به زودی ازش رد می‌شیم."
@@ -12246,7 +12246,7 @@ translate Persian strings:
     new "تعجب نمی‌کنم اگه همچین چیزهایی بینتون مشترک باشه."
 
     old "{#m_sayori_1_9b1a0bbf}"
-    new "آه، خب…"
+    new "عا، خب…"
 
     old "{#m_sayori_1_56c5f4e9}"
     new "ما شاید با هم صمیمی باشیم؛ ولی راستش، من و سایوری خیلی متفاوتیم."
@@ -12378,7 +12378,7 @@ translate Persian strings:
     new "حتماً از سبک نوشتارش خوشت اومده."
 
     old "{#m_natsuki_2_d080b42e}"
-    new "آه، آره…"
+    new "عا، آره…"
 
     old "{#m_natsuki_2_56691d3e}"
     new "به نظرم راه جالبی برای تعریف یه داستانه."

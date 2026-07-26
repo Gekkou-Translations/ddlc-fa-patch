@@ -467,7 +467,7 @@ translate Persian ch5_main_override_aa24ed84:
     "زندگی من به اندازه‌ی اون ارزش نداره…"
 
 translate Persian ch5_main_override_96fa7cd8:
-    "ولی باز هم نتونستم کاری رو که از من می‌خواست رو انجام بدم."
+    "ولی باز هم نتونستم کاری که از من می‌خواست رو انجام بدم."
 
 translate Persian ch5_main_override_226d890f:
     "و الآن…"
