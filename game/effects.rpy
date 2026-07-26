@@ -1,6 +1,11 @@
+
+
+
+define effects_vars = object()
+
 init python:
     def screenshot_srf():
-        srf = renpy.display.draw.screenshot(None)
+        srf = renpy.display.draw.screenshot(None) 
         
         return srf
 
@@ -16,13 +21,13 @@ init python:
             super(Invert, self).__init__()
             self.width, self.height = renpy.get_physical_size()
             self.height = self.width * 9 / 16
-            self.srf = invert()
+            effects_vars.invert_srf = invert()
             self.delay = delay
         
         def render(self, width, height, st, at):
             render = renpy.Render(self.width, self.height)
             if st >= self.delay:
-                render.blit(self.srf, (0, 0))
+                render.blit(effects_vars.invert_srf, (0, 0))
             return render
 
     def hide_windows_enabled(enabled=True):
@@ -63,27 +68,34 @@ init python:
         def __init__(self, number, offtimeMult, ontimeMult, offsetMin, offsetMax, srf=None):
             super(Tear, self).__init__()
             self.width, self.height = renpy.get_physical_size()
+            screenshot_offset_x = 0
+            screenshot_offset_y = 0
             if float(self.width) / float(self.height) > 16.0/9.0:
-                self.width = self.height * 16 / 9
+                screenshot_offset_x = int((self.width - int(self.height * 16 / 9)) / 2)
+                self.width = int(self.height * 16 / 9)
             else:
-                self.height = self.width * 9 / 16
+                screenshot_offset_y = int((self.height - int(self.width * 9 / 16)) / 2)
+                self.height = int(self.width * 9 / 16)
             self.number = number
-            if not srf: self.srf = screenshot_srf()
-            else: self.srf = srf
+            if not srf: effects_vars.tear_srf = screenshot_srf()
+            else: effects_vars.tear_srf = srf
+            
+            if (screenshot_offset_x != 0 or screenshot_offset_y != 0) and effects_vars.tear_srf.get_size() == renpy.get_physical_size():
+                effects_vars.tear_srf = screenshot_srf().subsurface(screenshot_offset_x, screenshot_offset_y, self.width, self.height)
             self.pieces = []
             tearpoints = [0, self.height]
             for i in range(number):
-                tearpoints.append(random.randint(10, int(self.height) - 10))
+                tearpoints.append(random.randint(10, int(self.height - 10)))
             tearpoints.sort()
             for i in range(number+1):
                 self.pieces.append(TearPiece(tearpoints[i], tearpoints[i+1], offtimeMult, ontimeMult, offsetMin, offsetMax))
         
         def render(self, width, height, st, at):
             render = renpy.Render(self.width, self.height)
-            render.blit(self.srf, (0,0))
+            render.blit(effects_vars.tear_srf, (0,0))
             for piece in self.pieces:
                 piece.update(st)
-                subsrf = self.srf.subsurface((0, max(0, piece.startY - 1), self.width, max(0, piece.endY - piece.startY)))
+                subsrf = effects_vars.tear_srf.subsurface((0, max(0, piece.startY - 1), self.width, max(0, piece.endY - piece.startY)))
                 render.blit(subsrf, (piece.offset, piece.startY))
             renpy.redraw(self, 0)
             return render
@@ -135,7 +147,7 @@ init python:
                     self.timers[i] = st + random.random() * 0.4 + 0.1
             return 0
     class ParticleBurst(object):
-        def __init__(self, theDisplayable, explodeTime=0, numParticles=20, particleTime = 0.500, particleXSpeed = 3, particleYSpeed = 5):
+        def __init__(self, theDisplayable, explodeTime=0, numParticles=20, particleTime = 0.500, particleTimeOffset = 0.0, particleXSpeed = 3, particleYSpeed = 5):
             self.sm = SpriteManager(update=self.update)
             
             self.stars = [ ]
@@ -143,6 +155,7 @@ init python:
             self.explodeTime = explodeTime
             self.numParticles = numParticles
             self.particleTime = particleTime
+            self.particleTimeOffset = particleTimeOffset
             self.particleXSpeed = particleXSpeed
             self.particleYSpeed = particleYSpeed
             self.gravity = 240
@@ -164,10 +177,11 @@ init python:
         
         def update(self, st):
             sindex=0
+            st_offset = st - self.particleTimeOffset
             for s, ySpeed, xSpeed, particleTime in self.stars:
-                if (st < particleTime):
-                    s.x = xSpeed * 120 * (st + .20)
-                    s.y = (ySpeed * 120 * (st + .20) + (self.gravity * st * st))
+                if ((st_offset) < particleTime):
+                    s.x = xSpeed * 120 * (st_offset + .20)
+                    s.y = (ySpeed * 120 * (st_offset + .20) + (self.gravity * st_offset * st_offset))
                 else:
                     s.destroy()
                     self.stars.pop(sindex)
@@ -273,15 +287,12 @@ init python:
             mr = renpy.render(self.mask, width, height, st, at)
             mb = renpy.Render(width, height)
             
-            
             if self.moving:
                 mb.place(self.mask, ((-st * 50) % (width * 2)) - (width * 2), 0)
                 mb.place(self.maskb, -width / 2, 0)
             else:
                 mb.place(self.mask, 0, 0)
                 mb.place(self.maskb, 0, 0)
-            
-            
             
             cw, ch = cr.get_size()
             mw, mh = mr.get_size()
@@ -297,12 +308,29 @@ init python:
             
             rv = renpy.Render(w, h)
             
-            rv.operation = renpy.display.render.IMAGEDISSOLVE
-            rv.operation_alpha = 1.0
-            rv.operation_complete = self.oc + math.pow(math.sin(st * self.speed / 8), 64 * self.frequency) * self.amount
-            rv.operation_parameter = self.op
             
-            rv.blit(mb, (0, 0), focus=False, main=False)
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            rv.mesh = True  
+            rv.add_shader("renpy.imagedissolve")
+            
+            mult = self.op if (self.op > 0) else 1
+            progress = self.oc + math.pow(math.sin(st * self.speed / 8), 64 * self.frequency) * self.amount 
+            
+            offset = ((mult / 256.0) + 1) * progress - 1.0
+            
+            rv.add_uniform("u_renpy_dissolve_offset", offset)
+            rv.add_uniform("u_renpy_dissolve_multiplier", 256.0 / mult) 
+            
+            rv.blit(mb, (0, 0), focus=False, main=False) 
             rv.blit(nr, (0, 0), focus=False, main=False)
             rv.blit(cr, (0, 0))
             
