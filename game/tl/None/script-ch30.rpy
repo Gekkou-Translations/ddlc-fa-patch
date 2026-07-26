@@ -64,7 +64,7 @@ label ch30_main_override:
     m "After all, I'm not even talking to that person anymore, am I?"
     m "That 'you' in the game, whatever you want to call him."
     m "I'm talking to {i}you{/i}, [player]."
-    $ stream_list = ["obs32.exe", "obs64.exe", "obs.exe"]
+    $ stream_list = ["obs32.exe", "obs64.exe", "obs.exe", "xsplit.core.exe", "livehime.exe", "pandatool.exe", "yymixer.exe", "douyutool.exe", "huomaotool.exe"]
     if not list(set(process_list).intersection(stream_list)):
         if currentuser != "" and currentuser.lower() != player.lower():
             m "Or..."
@@ -250,7 +250,7 @@ label ch30_postpoem_override:
     m "Are you ready to spend our eternity together, [player]?"
     m "I have so many things to talk about!"
     m "Where do I start...?"
-    $ stream_list = ["obs32.exe", "obs64.exe", "obs.exe", "xsplit.core.exe", "livehime.exe", "pandatool.exe", "yymixer.exe", "douyutool.exe", "huomaotool.exe", "nicoliveenc.exe"]
+    $ stream_list = ["obs32.exe", "obs64.exe", "obs.exe", "xsplit.core.exe", "livehime.exe", "pandatool.exe", "yymixer.exe", "douyutool.exe", "huomaotool.exe"]
     if list(set(process_list).intersection(stream_list)):
         call ch30_stream from _call_ch30_stream_1
     m "If it takes me some time to collect my thoughts, then I'm sorry."
