@@ -1226,7 +1226,7 @@ translate Persian natsuki_exclusive_2_ch3_c34ab66c:
     n "مثل اینکه جدیدترین عضو باشگاهت یه منحرف به تمام معناس."
 
 translate Persian natsuki_exclusive_2_ch3_4e67f8c4:
-    n "پس امیدوارم از کارت راضی هستی."
+    n "پس امیدوارم ازش راضی باشی."
 
 translate Persian natsuki_exclusive_2_ch3_3dfecb20:
     mc "من کاری--!"
@@ -2745,7 +2745,7 @@ translate Persian strings:
     new "مثل اینکه جدیدترین عضو باشگاهت یه منحرف به تمام معناس."
 
     old "{#natsuki_exclusive_2_ch3_4e67f8c4}"
-    new "پس امیدوارم از کارت راضی هستی."
+    new "پس امیدوارم ازش راضی باشی."
 
     old "{#natsuki_exclusive_2_ch3_3dfecb20}"
     new "من کاری--!"

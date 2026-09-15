@@ -1676,7 +1676,7 @@ translate Persian ch1_n_good_b0d75767:
     n 1h "و تو گند زدی به همه‌اش!"
 
 translate Persian ch1_n_good_f92b13ed:
-    n "امیدوارم از کارت راضی هستی!"
+    n "امیدوارم از کارت راضی باشی!"
 
 translate Persian ch1_n_good_2b35b6fe_1:
     mc "…"
@@ -8112,7 +8112,7 @@ translate Persian strings:
     new "و تو گند زدی به همه‌اش!"
 
     old "{#ch1_n_good_f92b13ed}"
-    new "امیدوارم از کارت راضی هستی!"
+    new "امیدوارم از کارت راضی باشی!"
 
     old "{#ch1_n_good_2b35b6fe_1}"
     new "…"
